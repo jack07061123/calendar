@@ -3,7 +3,12 @@ from oauth2client.service_account import ServiceAccountCredentials as SAC
 from typing import Optional
 from fastapi import FastAPI
 from pydantic import BaseModel
-from key import sheet_key
+# from key import sheet_key
+
+from dotenv import load_dotenv
+load_dotenv()
+sheetKey = os.environ.get("sheetKey")
+
 Json = "calendar.json"
 Url = ["https://spreadsheets.google.com/feeds"]
 Connect = SAC.from_json_keyfile_name(Json, Url)
