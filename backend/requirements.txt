@@ -1,2 +1,5 @@
 fastapi
+gspread
+oauth2client
+pydantic
 uvicorn[standard]
