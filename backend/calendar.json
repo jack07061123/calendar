@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "instant-duality-198201",
+  "private_key_id": "f7c5e6d8b5775f9344c8bdfeb778ebbbc238127b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3nTcrM13fQvIO\n2lfPEDka9n8xNxDTdo5dCjFQH3kRsBCpJmb7HWoFM0kgMBe4RGL9H5K7S9fzecWA\nIHYxDwzNzBdqHkN/sjqFMrZ/x/Zfr2JHf0xItyfghjPvcVOpofT8AKHWFOuf2ANO\nUpJVdaNACUuvnG8mS5VoNVP22xXisXRLN7izEsSXWNcU3fRXQC3a70Su4S2UQUkD\n9fi0yG5C18X+Y33UPcEDV/jAQeZlF9+jRyDse/cZY9f7jkSdXdQNPYrvXloLunXe\nruz7e1UVDwILTvs+TXePb7kFOEb3xdECXZgsofT+Ak/51nfzHnLqPNuvyi7vYI8l\nR0n0X1JtAgMBAAECggEAJXOYVqP2ED1v8Q6hHXeSJklD/U5djLxgYmLbVxvsTmrK\noy3VkH/Z6bChyEJ2/Bta04V2oORh6mQaoD0+zlfjBTENT5RXsTqxzAxhhCPNwYuc\n8Ldq4GQXaqkE++ByL6X8udAJMoj23JYranTWKz9A6qVavjmaxEVjdqt18mKSjrfJ\nIN837kN1D/BuaMPSqZtZwWDD9slMw1J7XMy4dszmhZCFBeV5/NBy280dqCJzmGhP\nLx2ETS3hvM26pUofrhgt06uhMX39qseajPpTBCyyLDm3CTYYlCygXPzIYC/Yvk1O\nPwSNKgwpb0MYUz3bQrhjZSJPz1uAlYIoLroR0X5KsQKBgQD4C09kSS7ka9Rmx2oh\nx6PkCWFt6pOhho1shPewoECFfSW2S1bzrN4HXckyE+36cr/fxoMPGmWVUZchIAnj\nrE653Vcn6c2tTC2TiakaHjZ+Phn2HTAqhba0OETxzdVJp96kKotu3ZdMtrIi8zdr\nH7zha+GhcX6EFh36G0U95OspZQKBgQC9gN7TOMoQRP9tx8suS5YOr4qnQJtFKf5O\nl4Ym/x9s21q9sl5/jspHEk6GiCs2Q7fFgFlo/e4SI0ZS2dr60K1vH9VJooXI0X1T\nxWSowGArpquZCRxvXyjkultFXTSbd5oZ8citnGydWrtN8w4dqGw5PuVTbuKT6ky/\nZzXx/DR4aQKBgHOxks5L9DtGsENgL/ihjagHWBJUn5dvkvdS7dTMakvZG4XzjhMK\nRmVZMUbSVOXEMArIJMkentMOw1cIApTXAcFfpA9R1kVGituOEfnErdYkUSeiZZzv\n0VAuDrpaL2mziv03euGzKab2cBAtMWQd4ZOjJhKPRVuGlWTa42kDJUyhAoGBAIDk\nxqqkVcv7IkFpQ6mZf9c9TvGz3+iLR43tQjIEFTvVd0LPr7bTSIJO0VpwA/RE2xpa\n0nW3QdbUZ2CzDV7L0StkW45aHOUamEQCXxToxIDsPIs6xzx5XTc2Ch6D5uRX1VkQ\nO47adoYQ0JWUXGWPyQym2xSEt1gkZU9KxEZzZL0BAoGAXJJgqWTTRIrqr3nBcc/2\n9CHIHKsI1gnX9pin97ATlVaZZyH8ueopskZ7Cp1KkaY541xK+bCuejmhnyYPFqN8\nvpqR2U6NZ2Z4fsPUjD0ki+AYn/oOWQBykT+1ERl8HVlnofkNTLdCCMBwTuDpFc/O\nd7TsX8myOVdiNDyHF4g/nIA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-calendar@instant-duality-198201.iam.gserviceaccount.com",
+  "client_id": "101235216248661099206",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-calendar%40instant-duality-198201.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
