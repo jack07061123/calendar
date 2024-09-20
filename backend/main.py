@@ -30,7 +30,7 @@ def create_keyfile_dict():
 
 # Json = "calendar.json"
 Url = ["https://spreadsheets.google.com/feeds"]
-Connect = SAC.from_json_keyfile_name(create_keyfile_dict(), Url)
+Connect = SAC.from_json_keyfile_dict(create_keyfile_dict(), Url)
 GoogleSheets = gspread.authorize(Connect)
 Sheet = GoogleSheets.open_by_key(sheet_key)
 Sheets = Sheet.sheet1
