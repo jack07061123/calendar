@@ -1,4 +1,5 @@
 import gspread
+import os
 from oauth2client.service_account import ServiceAccountCredentials as SAC
 from typing import Optional
 from fastapi import FastAPI
