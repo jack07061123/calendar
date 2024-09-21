@@ -8,7 +8,7 @@ from pydantic import BaseModel
 
 from dotenv import load_dotenv
 load_dotenv()
-sheet_key = os.environ.get("sheetKey")
+sheet_key = os.environ.get("SHEET_KEY")
 
 
 def create_keyfile_dict():
